@@ -24,4 +24,3 @@ Ikuti langkah-langkah berikut untuk melihat proyek:
 
 11. Ditampilan awal ada home.php terdapat beberapa pilihan ada home, about, product, Order, ada pilihan untuk melihat informasi promo produk lalu ada filter produk, tampilan produk - produk yang dijual, special order untuk orderan banyak, pemberitahuan tentang toko, terakhir dibagian footernya terdapat beberapa informasi seperti sosial media, alamat, serta jam operasional dari toko.
 
-12. Selanjutnya saya akan melampirkan screenshots seluruh halaman web di folder screenshots.
